@@ -50,3 +50,4 @@ We support these files:
 * Video (*.mp4*, *.mov*){% endif %}
 
 ![Attachments animated GIF](/assets/images/help/pull_requests/dragging_images.gif)
+中文
